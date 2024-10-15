@@ -1,6 +1,6 @@
 # 🐍 Introducción a Python
 
-¡Bienvenidos a este repositorio de **Introducción a Python**! 🎉 Aquí encontrarás todo lo necesario para empezar a programar en Python desde cero. Está orientado a estudiantes, entusiastas de la programación y aquellos interesados en el desarrollo de video juegos. A medida que avances, aprenderás conceptos fundamentales y cómo aplicarlos en el mundo real.
+¡Bienvenidos a este repositorio académico de **Introducción a Python**! 🎉 Aquí encontrarás todo lo necesario para empezar a programar en Python desde cero. Está orientado a estudiantes, entusiastas de la programación y aquellos interesados en el desarrollo de videojuegos, con un enfoque educativo y académico. A medida que avances, aprenderás conceptos fundamentales y cómo aplicarlos en el mundo real.
 
 ## 📚 Contenidos
 
