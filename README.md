@@ -10,7 +10,7 @@
 4. [**⚠️ Manejo de errores**](URL_DEL_TEMA): Excepciones y depuración.
 5. [**📊 Manipulación de datos**](URL_DEL_TEMA): Listas, diccionarios, conjuntos. 
 6. [**📦 Introducción a módulos**](URL_DEL_TEMA): Uso de bibliotecas estándar y externas. 
-7.[**📈 Introducción al desarrollo de videojuegos**](URL_DEL_TEMA): Breve introducción a bibliotecas como `pandas` y `numpy`. 
+7. [**📈 Introducción al desarrollo de videojuegos**](URL_DEL_TEMA): Breve introducción a bibliotecas como `pandas` y `numpy`. 
 
 
 ## 🛠️ Requisitos
