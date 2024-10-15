@@ -4,7 +4,7 @@
 
 ## 📚 Contenidos
 
-1. [**👋 Primeras líneas en Python**](URL_DEL_TEMA): Tu primer código y cómo imprimir un mensaje en la consola.
+1. [**👋 Primeros pasos en Python**](URL_DEL_TEMA): Tu primer código y cómo imprimir un mensaje en la consola.
 2. [**🔤 Conceptos básicos**](URL_DEL_TEMA): Variables, tipos de datos, operadores. 
 3. [**🔁 Estructuras de control**](URL_DEL_TEMA): Condicionales, bucles. 
 4. [**🔧 Funciones**](URL_DEL_TEMA): Definición, parámetros, retorno de valores. 
