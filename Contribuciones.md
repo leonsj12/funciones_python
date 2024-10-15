@@ -4,7 +4,7 @@
 
 ## 📋 Cómo contribuir
 
-1. **Lee el Código de Conducta**: Antes de comenzar, asegúrate de leer nuestro [Código de Conducta](#código-de-conducta). Queremos mantener un ambiente respetuoso y colaborativo para todos.
+1. **Lee el Código de Conducta**: Antes de comenzar, asegúrate de leer nuestro [Código de Conducta](https://github.com/leonsj12/introduccion_python/blob/main/Codigo%20de%20conducta.md). Queremos mantener un ambiente respetuoso y colaborativo para todos.
 
 2. **Fork del repositorio**: Haz un fork del repositorio para tener tu propia copia en tu cuenta de GitHub. Esto te permitirá realizar cambios sin afectar el proyecto original.
 
