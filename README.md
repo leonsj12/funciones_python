@@ -5,12 +5,12 @@
 ## 📚 Contenidos
 
 1. [**🔤 Conceptos básicos**](URL_DEL_TEMA): Variables, tipos de datos, operadores. 
-2. **🔁 Estructuras de control**: Condicionales, bucles. [Enlace](URL_DEL_TEMA)
-3. **🔧 Funciones**: Definición, parámetros, retorno de valores. [Enlace](URL_DEL_TEMA)
-4. **⚠️ Manejo de errores**: Excepciones y depuración. [Enlace](URL_DEL_TEMA)
-5. **📊 Manipulación de datos**: Listas, diccionarios, conjuntos. [Enlace](URL_DEL_TEMA)
-6. **📦 Introducción a módulos**: Uso de bibliotecas estándar y externas. [Enlace](URL_DEL_TEMA)
-7. **📈 Introducción al desarrollo de videojuegos**: Breve introducción a bibliotecas como `pandas` y `numpy`. [Enlace](URL_DEL_TEMA)
+2. [**🔁 Estructuras de control**](URL_DEL_TEMA): Condicionales, bucles. 
+3. [**🔧 Funciones**](URL_DEL_TEMA): Definición, parámetros, retorno de valores. 
+4. [**⚠️ Manejo de errores**](URL_DEL_TEMA): Excepciones y depuración.
+5. [**📊 Manipulación de datos**](URL_DEL_TEMA): Listas, diccionarios, conjuntos. 
+6. [**📦 Introducción a módulos**](URL_DEL_TEMA): Uso de bibliotecas estándar y externas. 
+7.[**📈 Introducción al desarrollo de videojuegos**](URL_DEL_TEMA): Breve introducción a bibliotecas como `pandas` y `numpy`. 
 
 
 ## 🛠️ Requisitos
