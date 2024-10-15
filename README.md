@@ -27,3 +27,13 @@ Clona este repositorio en tu máquina local utilizando el siguiente comando:
 git clone https://github.com/usuario/introduccion_python.git
 
 
+## 📄 Documentación adicional
+
+Para obtener más información sobre cómo contribuir y colaborar en este repositorio, asegúrate de revisar los siguientes documentos:
+
+- **[Licencia](LICENSE)**: Detalles sobre la licencia del proyecto.
+- **[Código de Conducta](CODE_OF_CONDUCT.md)**: Normas y expectativas para la colaboración.
+- **[Registro de Cambios](CHANGELOG.md)**: Historial de cambios y mejoras en el repositorio.
+- **[Guía de Contribución](CONTRIBUTING.md)**: Instrucciones para contribuir al proyecto.
+
+
