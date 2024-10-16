@@ -5,13 +5,13 @@
 ## 📚 Aprenderas
 
 - 📝 [**Trabajando en Jupyter Notebooks**](#): Desarrollar y depurar tu código interactivamente en Jupyter, uno de los entornos más utilizados en analisis y ciencia de datos.
-💻 - [**Iniciando en Python**](#): Python es uno de los lenguajes más populares en ciencia de datos y desarrollo de software. 
-🔢 [**Lógica de programación**](#): Variables, tipos de datos, estructuras de control y cómo aplicarlos en tu código.
-🔁 [**Estructuras de control**](#): Maneja condicionales (`if`, `elif`, `else`), bucles (`for`, `while`) y aprende a controlar el flujo de tu programa.
-🔧 [**Funciones y objetos**](#): Aprende a crear **funciones** personalizadas, manejar múltiples parámetros y explorar la **programación orientada a objetos (OOP)**.
-📊 [**Manipulación de datos**](#): Trabaja con **listas**, **tuplas**, **diccionarios**, y **conjuntos** para organizar y gestionar información de manera eficiente.
-📚 [**Uso de bibliotecas en Python**](#): Descubre el poder de las bibliotecas como **Pandas** y **NumPy** para manipulación de datos. 
-🌐 [**Acceso a datos y web scraping**](#): Aprende a obtener datos desde la web usando APIs y herramientas como **Beautiful Soup** para raspar contenido.
+- 💻 [**Iniciando en Python**](#): Python es uno de los lenguajes más populares en ciencia de datos y desarrollo de software. 
+- 🔢 [**Lógica de programación**](#): Variables, tipos de datos, estructuras de control y cómo aplicarlos en tu código.
+- 🔁 [**Estructuras de control**](#): Maneja condicionales (`if`, `elif`, `else`), bucles (`for`, `while`) y aprende a controlar el flujo de tu programa.
+- 🔧 [**Funciones y objetos**](#): Aprende a crear **funciones** personalizadas, manejar múltiples parámetros y explorar la **programación orientada a objetos (OOP)**.
+- 📊 [**Manipulación de datos**](#): Trabaja con **listas**, **tuplas**, **diccionarios**, y **conjuntos** para organizar y gestionar información de manera eficiente.
+- 📚 [**Uso de bibliotecas en Python**](#): Descubre el poder de las bibliotecas como **Pandas** y **NumPy** para manipulación de datos. 
+- 🌐 [**Acceso a datos y web scraping**](#): Aprende a obtener datos desde la web usando APIs y herramientas como **Beautiful Soup** para raspar contenido.
 
 
 ## 🛠️ Requisitos
