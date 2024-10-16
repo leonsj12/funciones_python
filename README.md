@@ -2,16 +2,16 @@
 
 ¡Bienvenidos a este repositorio académico de **Introducción a Python**! 🎉 Aquí encontrarás todo lo necesario para empezar a programar en Python desde cero. Está orientado a estudiantes, entusiastas de la programación y aquellos interesados en el desarrollo de videojuegos, con un enfoque educativo y académico. A medida que avances, aprenderás conceptos fundamentales y cómo aplicarlos en el mundo real.
 
-## 📚 Contenidos
+## 📚 Aprenderas
 
-1. [**👋 Primeros pasos en Python**](URL_DEL_TEMA): Tu primer código y cómo imprimir un mensaje en la consola.
-2. [**🔤 Conceptos básicos**](URL_DEL_TEMA): Variables, tipos de datos, operadores. 
-3. [**🔁 Estructuras de control**](URL_DEL_TEMA): Condicionales, bucles. 
-4. [**🔧 Funciones**](URL_DEL_TEMA): Definición, parámetros, retorno de valores.
-5. [**📊 Manipulación de datos**](URL_DEL_TEMA): Listas, diccionarios, conjuntos.
-6. [**📦 Introducción a módulos**](URL_DEL_TEMA): Uso de bibliotecas estándar y externas.
-7. [**📈 Introducción al desarrollo de videojuegos**](URL_DEL_TEMA): Breve introducción a bibliotecas como `Pygame` y `Arcade`.
-
+📝 [**Trabajando en Jupyter Notebooks**](#): Desarrollar y depurar tu código interactivamente en Jupyter, uno de los entornos más utilizados en analisis y ciencia de datos.
+💻 [**Iniciando en Python**](#): Python es uno de los lenguajes más populares en ciencia de datos y desarrollo de software. 
+🔢 [**Lógica de programación**](#): Variables, tipos de datos, estructuras de control y cómo aplicarlos en tu código.
+🔁 [**Estructuras de control**](#): Maneja condicionales (`if`, `elif`, `else`), bucles (`for`, `while`) y aprende a controlar el flujo de tu programa.
+🔧 [**Funciones y objetos**](#): Aprende a crear **funciones** personalizadas, manejar múltiples parámetros y explorar la **programación orientada a objetos (OOP)**.
+📊 [**Manipulación de datos**](#): Trabaja con **listas**, **tuplas**, **diccionarios**, y **conjuntos** para organizar y gestionar información de manera eficiente.
+📚 [**Uso de bibliotecas en Python**](#): Descubre el poder de las bibliotecas como **Pandas** y **NumPy** para manipulación de datos. 
+🌐 [**Acceso a datos y web scraping**](#): Aprende a obtener datos desde la web usando APIs y herramientas como **Beautiful Soup** para raspar contenido.
 
 
 ## 🛠️ Requisitos
