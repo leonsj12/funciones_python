@@ -7,11 +7,10 @@
 1. [**👋 Primeros pasos en Python**](URL_DEL_TEMA): Tu primer código y cómo imprimir un mensaje en la consola.
 2. [**🔤 Conceptos básicos**](URL_DEL_TEMA): Variables, tipos de datos, operadores. 
 3. [**🔁 Estructuras de control**](URL_DEL_TEMA): Condicionales, bucles. 
-4. [**🔧 Funciones**](URL_DEL_TEMA): Definición, parámetros, retorno de valores. 
-5. [**⚠️ Manejo de errores**](URL_DEL_TEMA): Excepciones y depuración. 
-6. [**📊 Manipulación de datos**](URL_DEL_TEMA): Listas, diccionarios, conjuntos. 
-7. [**📦 Introducción a módulos**](URL_DEL_TEMA): Uso de bibliotecas estándar y externas. 
-8. [**📈 Introducción al desarrollo de videojuegos**](URL_DEL_TEMA): Breve introducción a bibliotecas como `Pygame` y `Arcade`.
+4. [**🔧 Funciones**](URL_DEL_TEMA): Definición, parámetros, retorno de valores.
+5. [**📊 Manipulación de datos**](URL_DEL_TEMA): Listas, diccionarios, conjuntos.
+6. [**📦 Introducción a módulos**](URL_DEL_TEMA): Uso de bibliotecas estándar y externas.
+7. [**📈 Introducción al desarrollo de videojuegos**](URL_DEL_TEMA): Breve introducción a bibliotecas como `Pygame` y `Arcade`.
 
 
 
