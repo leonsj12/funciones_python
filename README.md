@@ -39,7 +39,7 @@ Para obtener más información sobre cómo contribuir y colaborar en este reposi
 
 - **[Licencia](LICENSE)**: Detalles sobre la licencia del proyecto.
 - **[Código de Conducta](CODE_OF_CONDUCT.md)**: Normas y expectativas para la colaboración.
-- **[Codigo de conducta](**: Historial de cambios y mejoras en el repositorio.
+- **[Codigo de conducta](https://github.com/leonsj12/funciones_python/blob/main/Codigo%20de%20conducta.md)
 - **[Guía de Contribución](CONTRIBUTING.md)**: Instrucciones para contribuir al proyecto.
 
 
