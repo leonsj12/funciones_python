@@ -1,8 +1,8 @@
 Licencia MIT
 
-Copyright (c) 2024 Sara Leon
+Copyright (c) 2024 Leon, S
 
-Este repositorio académico de **Introducción a Python** está diseñado para proporcionar recursos y materiales educativos a estudiantes y entusiastas interesados en el desarrollo de videojuegos.
+Este repositorio académico de **Funciones en Python** está diseñado para proporcionar recursos y materiales educativos a estudiantes y entusiastas interesados en el desarrollo de videojuegos.
 
 Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia
 de este software y los archivos de documentación asociados (el "Software"), para tratar
