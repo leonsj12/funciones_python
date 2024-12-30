@@ -37,7 +37,7 @@ El repositorio está organizado en las siguientes categorías:
 
 Para obtener más información sobre cómo contribuir y colaborar en este repositorio, asegúrate de revisar los siguientes documentos:
 
-- **[Licencia](LICENSE)**: Detalles sobre la licencia del proyecto.
+- **[Licencia](https://github.com/leonsj12/funciones_python/blob/main/Licencia.md)**: Detalles sobre la licencia del proyecto.
 - **[Registro de cambios](https://github.com/leonsj12/funciones_python/blob/main/Cambios.md)**: Normas y expectativas para la colaboración.
 - **[Codigo de conducta](https://github.com/leonsj12/funciones_python/blob/main/Codigo%20de%20conducta.md)**
 - **[Guía de Contribución](https://github.com/leonsj12/funciones_python/blob/main/Contribuciones.md)**: Instrucciones para contribuir al proyecto.
