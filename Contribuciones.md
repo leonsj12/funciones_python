@@ -1,6 +1,6 @@
 # 🤝 Guía de Contribución
 
-¡Gracias por tu interés en contribuir a este repositorio de **Introducción a Python**! 🎉 Tu participación es muy valiosa y ayuda a enriquecer el contenido académico y educativo. A continuación, encontrarás algunas pautas para hacer que tu contribución sea lo más fluida y efectiva posible.
+¡Gracias por tu interés en contribuir a este repositorio de **Funciones en Python**! 🎉 Tu participación es muy valiosa y ayuda a enriquecer el contenido académico y educativo. A continuación, encontrarás algunas pautas para hacer que tu contribución sea lo más fluida y efectiva posible.
 
 ## 📋 Cómo contribuir
 
