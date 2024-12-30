@@ -1,8 +1,8 @@
 # 📚 Registro de Cambios
 
-Todas las mejoras y correcciones de este repositorio de **Introducción a Python** se documentan a continuación. Este registro de cambios sigue el formato [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), que es un estándar para mantener un historial claro y conciso de los cambios.
+Todas las mejoras y correcciones de este repositorio de **Funciones en Python** se documentan a continuación. Este registro de cambios sigue el formato [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), que es un estándar para mantener un historial claro y conciso de los cambios.
 
-## [1.0.0] - 2024-10-15
+## [1.0.0] - 2024-12-30
 
 ### Añadido
 - 📖 **Documentación inicial**: Creación de la documentación básica sobre los conceptos de Python.
@@ -16,7 +16,7 @@ Todas las mejoras y correcciones de este repositorio de **Introducción a Python
 
 ---
 
-## [0.1.0] - 2024-10-10
+## [0.1.0] - 2024-12-30
 
 ### Añadido
 - 🎉 **Inicio del repositorio**: Creación del repositorio con una introducción a Python.
