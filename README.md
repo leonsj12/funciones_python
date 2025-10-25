@@ -1,31 +1,31 @@
-# 📚 Repositorio académico de funciones en Python 🐍
+#  Repositorio académico de funciones en Python 
 
 ¡Bienvenido al repositorio académico de funciones en Python! Este proyecto contiene una colección de funciones diseñadas para resolver problemas comunes en áreas como matemáticas, estadística, manejo de datos, y más. 
 
-## 🚀 Objetivo
+##  Objetivo
 
 El objetivo principal de este repositorio es proporcionar un recurso educativo para estudiantes, docentes y desarrolladores que deseen aprender, implementar o enseñar conceptos fundamentales de programación en Python.
 
 ---
 
-## 📂 Contenido
+##  Contenido
 
 El repositorio está organizado en las siguientes categorías:
 
-- **🧮 Matemáticas**: 
+- ** Matemáticas**: 
   - Funciones para operaciones algebraicas, cálculo de derivadas, integrales y más.
-- **📊 Estadística**:
+- ** Estadística**:
   - Cálculo de medias, medianas, varianzas y generadores de distribuciones.
-- **📋 Manejo de Datos**:
+- ** Manejo de Datos**:
   - Funciones para filtrar, limpiar y transformar datos.
-- **🎲 Simulación**:
+- ** Simulación**:
   - Generación de números aleatorios y simulaciones básicas.
-- **🔧 Utilidades**:
+- ** Utilidades**:
   - Funciones de propósito general como manejo de cadenas, fechas, etc.
 
 ---
 
-## 📖 Instalación
+##  Instalación
 
 1. Clona el repositorio:
    ```bash
@@ -33,7 +33,7 @@ El repositorio está organizado en las siguientes categorías:
 
 
 
-## 📄 Documentación adicional
+##  Documentación adicional
 
 Para obtener más información sobre cómo contribuir y colaborar en este repositorio, asegúrate de revisar los siguientes documentos:
 
